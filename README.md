@@ -236,7 +236,6 @@ print(my_list)
 # => ['This is a long sentence', 'Word', 'z']
 
 ```
-
 We can sort complex data structures using sort `key`
 
 Lets say we have a list of tuples we want to sort using the second key:
